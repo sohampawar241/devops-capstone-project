@@ -1,10 +1,15 @@
-# devops-capstone-project
+# DevOps Capstone
+
+![Build Status](https://github.com/sohampawar241/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 [![CI Build](https://github.com/sohampawar241/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/sohampawar241/devops-capstone-project/actions/workflows/ci-build.yaml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
-This repository contains the completed project for the **IBM DevOps and Software Engineering Capstone Project** (`devops-capstone-project`), part of the **IBM DevOps and Software Engineering Professional Certificate**.
+Project Name: DevOps Capstone
+Repository: devops-capstone-project
+
+This repository contains the completed Customer Accounts microservice for the **DevOps Capstone** project (`devops-capstone-project`), which is part of the **IBM DevOps and Software Engineering Professional Certificate**.
 
 ## Project Overview
 
